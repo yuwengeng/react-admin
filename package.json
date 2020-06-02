@@ -2,7 +2,7 @@
   "name": "react-app_blank",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://yuwengeng.github.io/react-admin",
+  "homepage" : "http://yuwengeng.github.io/react-admin/public/",
   "dependencies": {
     "@antv/data-set": "^0.10.2",
     "antd": "3.17.0",
