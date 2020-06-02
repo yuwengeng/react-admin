@@ -1,5 +1,5 @@
-// localStorage读写操作
-// 后期可以引入store库,兼容所有浏览器
+// 操作local数据的工具函数模块
+// 引入store库,兼容所有浏览器
 
 import store from 'store'
 
